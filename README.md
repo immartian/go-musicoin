@@ -33,3 +33,5 @@ Musicoin has set up some default nodes that you can try to connect as bootstrap 
 
 In GMC console, add knowing peer with its enode information:
 `> admin.addPeer("{enode info}")`
+
+Enjoy the digital currency for Music!
